@@ -9,7 +9,9 @@ scenarios:
   - SSP2_HGEM
   - SSP2_MIROC
   - SSP2_IPSL
+  - SSP2_NoCC
 ---
+
 
 
 
@@ -42,4 +44,4 @@ ACKNOWLEDGEMENTS
 
 This work was done under the Global Futures & Strategi Foresight Program and was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions & Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
 
-![pim picture3_color](https://cloud.githubusercontent.com/assets/12040069/11486872/bdbb0eac-9789-11e5-8cd6-aabd30166be7.png)	![ccafs picture1](https://cloud.githubusercontent.com/assets/12040069/11486884/d30b3e94-9789-11e5-9438-75da9d164f19.png)	
+![pim picture3_color](https://cloud.githubusercontent.com/assets/12040069/11486872/bdbb0eac-9789-11e5-8cd6-aabd30166be7.png)	![ccafs picture1](https://cloud.githubusercontent.com/assets/12040069/11486884/d30b3e94-9789-11e5-9438-75da9d164f19.png)
