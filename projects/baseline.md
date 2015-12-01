@@ -13,6 +13,7 @@ scenarios:
 
 
 
+
 Latest release of estimates from the baseline suite of scenarios of the IFPRI International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT). The simulations run up to the year 2050, under assumptions of constant climate (baseline noCC), or under a range of climate change scenarios.
 
 METHODOLOGY
@@ -40,3 +41,5 @@ IMPACT model team:  IFPRI-Impact-Model@cgiar.org
 ACKNOWLEDGEMENTS
 
 This work was done under the Global Futures & Strategi Foresight Program and was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions & Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
+
+![pim picture3_color](https://cloud.githubusercontent.com/assets/12040069/11486872/bdbb0eac-9789-11e5-8cd6-aabd30166be7.png)	![ccafs picture1](https://cloud.githubusercontent.com/assets/12040069/11486884/d30b3e94-9789-11e5-9438-75da9d164f19.png)	
