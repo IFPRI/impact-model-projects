@@ -43,4 +43,5 @@ exploreRegionValue: ""
 mapAggregation: ""
 ---
 
-This scenario uses the IPCC middle of the road population and GDP projections (SSP2) under current climatic conditions (i.e. a climate representative of conditions around the year 2005).
+
+This scenario uses the IPCC middle of the road population and GDP projections (SSP2) under current climatic conditions (a climate representative of conditions around the year 2005).
