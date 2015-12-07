@@ -48,6 +48,7 @@ scenarios:
 
 
 
+
 The Global Futures project on promising technologies simulates the adoption of improved agricultural technologies across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
 
 METHODOLOGY
@@ -69,15 +70,13 @@ The varieties are adopted in different regions according to the table below:
 | Wheat	| Drought and heat tolerance (DTHT) | Argentina, South Africa |
 | Rice	| Drought tolerance | Bangladesh, Cambodia, India,Lao People’s Democratic Republic, Nepal, Sri Lanka, Thailand |
 | Potato | Drought Tolerance | Bangladesh, China, Kyrgyzstan, India, Nepal, Pakistan, Tajikistan, Uzbekistan |
-| Potato | Heat tolerance |  
-| Potato | Drought and heat tolerance | 
+| Potato | Heat tolerance | Bangladesh, China, Kyrgyzstan, India, Nepal, Pakistan, Tajikistan, Uzbekistan | 
+| Potato | Drought and heat tolerance | Bangladesh, China, Kyrgyzstan, India, Nepal, Pakistan, Tajikistan, Uzbekistan |
 | Sorghum | Drought tolerance | Burkina Faso, Eritrea, Ethiopia, India, Mali, Nigeria, Sudan, United Republic of Tanzania |
 | Groundnut | Drought tolerance	| Burkina Faso, Ghana, India, Malawi, Mali, Myanmar, Niger, Nigeria, Uganda, United Republic of Tanzania, Vietnam |
-| Groundnut | Heat tolerance |  |
-| Groundnut | Drought and heat tolerance, high yielding (DTHTY) | 	 |
+| Groundnut | Heat tolerance | Burkina Faso, Ghana, India, Malawi, Mali, Myanmar, Niger, Nigeria, Uganda, United Republic of Tanzania, Vietnam |
+| Groundnut | Drought and heat tolerance, high yielding (DTHTY) | Burkina Faso, Ghana, India, Malawi, Mali, Myanmar, Niger, Nigeria, Uganda, United Republic of Tanzania, Vietnam |
 | Cassava | Scenarios include impact of Mealybug and control methods | China, India, Indonesia, Lao People’s Democratic Republic, Myanmar, Thailand |
-
-![gf table](https://cloud.githubusercontent.com/assets/12040069/11628851/7e192278-9cc2-11e5-88cd-4dace42606ce.png)
 
 AUTHORS AND COLLABORATORS
 
