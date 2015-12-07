@@ -47,6 +47,7 @@ scenarios:
 
 
 
+
 The Global Futures project on promising technologies simulates the adoption of improved agricultural technologies across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
 
 METHODOLOGY
@@ -75,6 +76,8 @@ The varieties are adopted in different regions according to the table below:
 | Groundnut | Heat tolerance |  |
 | Groundnut | Drought and heat tolerance, high yielding (DTHTY) | 	 |
 | Cassava | Scenarios include impact of Mealybug and control methods | China, India, Indonesia, Lao People’s Democratic Republic, Myanmar, Thailand |
+
+![gf table](https://cloud.githubusercontent.com/assets/12040069/11628851/7e192278-9cc2-11e5-88cd-4dace42606ce.png)
 
 AUTHORS AND COLLABORATORS
 
