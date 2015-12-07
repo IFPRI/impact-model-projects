@@ -46,6 +46,7 @@ scenarios:
 ---
 
 
+
 The Global Futures project on promising technologies simulates the adoption of improved agricultural technologies across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
 
 METHODOLOGY
@@ -67,8 +68,8 @@ The varieties are adopted in different regions according to the table below:
 | Wheat	| Drought and heat tolerance (DTHT) | Argentina, South Africa |
 | Rice	| Drought tolerance | Bangladesh, Cambodia, India,Lao People’s Democratic Republic, Nepal, Sri Lanka, Thailand |
 | Potato | Drought Tolerance | Bangladesh, China, Kyrgyzstan, India, Nepal, Pakistan, Tajikistan, Uzbekistan |
-| Potato | Heat tolerance |  |
-| Potato | Drought and heat tolerance | |
+| Potato | Heat tolerance |  
+| Potato | Drought and heat tolerance | 
 | Sorghum | Drought tolerance | Burkina Faso, Eritrea, Ethiopia, India, Mali, Nigeria, Sudan, United Republic of Tanzania |
 | Groundnut | Drought tolerance	| Burkina Faso, Ghana, India, Malawi, Mali, Myanmar, Niger, Nigeria, Uganda, United Republic of Tanzania, Vietnam |
 | Groundnut | Heat tolerance |  |
@@ -99,5 +100,3 @@ ACKNOWLEDGEMENTS
 This study was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions and Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
 
 ![pim picture3_color](https://cloud.githubusercontent.com/assets/12040069/11486872/bdbb0eac-9789-11e5-8cd6-aabd30166be7.png) 		![ccafs picture1](https://cloud.githubusercontent.com/assets/12040069/11486884/d30b3e94-9789-11e5-9438-75da9d164f19.png)
-
-
