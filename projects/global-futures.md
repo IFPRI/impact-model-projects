@@ -49,6 +49,7 @@ scenarios:
 
 
 
+
 The Global Futures project on promising technologies simulates the adoption of improved agricultural technologies across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
 
 METHODOLOGY
@@ -94,8 +95,7 @@ More info on GFSF can be found http://globalfutures.cgiar.org/
 
 CONTACTS
 
-- Corresponding author: Sherman Robinson - s.robinson@cgiar.org
-- Global Futures Program Manager: Keith Wiebe - k.wiebe@cgiar.org
+IMPACT model team:  IFPRI-Impact-Model@cgiar.org
 
 ACKNOWLEDGEMENTS
 
