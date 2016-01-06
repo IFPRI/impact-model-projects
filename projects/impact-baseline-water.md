@@ -19,6 +19,7 @@ title: IMPACT Baseline Water
 
 
 
+
 Latest release of estimates for water parameters from the baseline suite of scenarios of the IFPRI International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT). The simulations run up to the year 2050, under assumptions of constant climate, or under a range of climate change scenarios. 
 
 METHODOLOGY
@@ -33,7 +34,8 @@ International Food Policy Research Institute (IFPRI): Sherman Robinson, Tingju Z
 Download the Technical Report
 
 CONTACTS
-Sherman Robinson - s.robinson@cgiar.org
+
+IMPACT model team:  IFPRI-Impact-Model@cgiar.org
 
 ACKNOWLEDGEMENTS
 This work was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions and Markets (PIM), and the CGIAR Research Program on Water, Land and Ecosystems (WLE).
