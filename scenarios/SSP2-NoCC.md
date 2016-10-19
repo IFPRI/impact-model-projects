@@ -1,9 +1,9 @@
 ---
 published: true
 project: baseline
-related: 
+related:
   - ssp2_gfdl
-outputsCommodShow: 
+outputsCommodShow:
   - anmlnumxagg
   - qlxagg
   - tyldxagg
@@ -15,11 +15,11 @@ outputsCommodShow:
   - qmshxagg
   - qsupxagg
   - tareaxagg
-outputsNonCommodShow: 
+outputsNonCommodShow:
   - percapkcalxagg
   - populationatriskxagg
   - totalmalnourishedxagg
-mapParam: 
+mapParam:
   - anmlnumxagg
   - qlxagg
   - tyldxagg
@@ -38,9 +38,8 @@ mapDefaultGroup: cereals
 mapDefaultParam: tyldxagg
 exploreDefaultGroup: cereals
 exploreScenarioComp: ssp2_gfdl
-exploreRegAgg: ""
-exploreRegionValue: ""
-mapAggregation: ""
+tags:
+  - test-tag
 ---
 
 
