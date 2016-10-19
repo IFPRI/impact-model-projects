@@ -50,6 +50,15 @@ prose:
           label: "Project"
           help: "Enter the project id"
           placeholder: "project-id"
+      - name: "tags"
+        field:
+          element: multiselect
+          label: "Tags"
+          help: "Select or enter tag names"
+          options:
+            - name: "baseline"
+              value: "baseline"
+          alterable: true
       - name: "related"
         field:
           element: multiselect
